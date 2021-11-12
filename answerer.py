@@ -4,7 +4,7 @@ import bs4
 import webbrowser
 
 print("\n                                                      \n _____ _          _____                               \n|_   _| |_ ___   |  _  |___ ___ _ _ _ ___ ___ ___ ___ \n  | | |   | -_|  |     |   |_ -| | | | -_|  _| -_|  _|\n  |_| |_|_|___|  |__|__|_|_|___|_____|___|_| |___|_|  \n                                                      \n")
-query = input("Enter the query: ")
+query = input("What do you wanna search: ")
 
 url = "https://google.com/search?q=" + query
 
